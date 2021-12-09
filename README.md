@@ -6,3 +6,11 @@ These are the maps from the xiyutuzhi.
 Folders are devided according to each individual maps. 
 
 The red line in square marks the specifical places (used in each individual map marker). 
+
+Naming: Hindustan_xiyuquantu_map.jpg
+
+_A_B_map.jpg in which
+
+A: The specific location/Map marker
+
+B: which map in Pinyin
